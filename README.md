@@ -4,5 +4,5 @@
 | ------ | ------ | ------ | ------ | ------ |
 | Абельдинов И.С. | 2 | ВТиП-302 | Разработка мобильного приложения | Тема 6 - Работа с базой данных SQLite |
 
-![Screenshot_20221123_192052](https://user-images.githubusercontent.com/71010650/203558815-67f0fa06-c7ba-452e-99ed-96052818cfff.png)
-![Screenshot_20221123_192021](https://user-images.githubusercontent.com/71010650/203558819-c5a5bf71-097e-4e94-b056-8d7fa0c7fb31.png)
+![Screenshot_20221125_165524](https://user-images.githubusercontent.com/71010650/203969640-d659834e-2c66-4365-b6da-f3b669b4f581.png)
+![Screenshot_20221125_165547](https://user-images.githubusercontent.com/71010650/203969651-710ef795-79ea-40c2-9e3c-6a44ebb6ccc0.png)
