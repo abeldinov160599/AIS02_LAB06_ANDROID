@@ -1,0 +1,5 @@
+Eclipse | https://www.eclipse.org/ide/ | Windows,Linux,macOS | C, C++, Java, Perl, PHP, Python, Ruby и другие.
+NetBeans | https://netbeans.org/ | Windows,Linux,macOS,BSD | C, C++, C++ 11, Fortan, HTML 5, Java, PHP и другие.
+Xcode | https://developer.apple.com/xcode/ | macOS | AppleScript, C, C++, Java, Objective-C, Swift
+Code::Blocks | http://www.codeblocks.org | Windows,Linux,macOS | C, C++, Fortran
+Komodo | http://www.activestate.com/komodo-ide | Windows,Linux,macOS | CSS, JavaScript, HTML, NodeJS, Perl, PHP, Python, Ruby и другие.
