@@ -1,6 +1,0 @@
-PhpStorm | https://www.jetbrains.com/ru-ru/phpstorm/ | Windows,Linux,macOS | PHP, HTML, CSS и др. | 93317
-CLion | https://www.jetbrains.com/ru-ru/clion/ | Windows,Linux,macOS | C++, C и др. | 93317
-Microsoft Visual Studio | https://visualstudio.microsoft.com/ru/ | Windows/macOS (для Linux есть только редактор кода) | Visual Basic, Visual C#, Visual C++ и др. | 21102
-PyCharm | https://www.jetbrains.com/pycharm/ | Windows,Linux,macOS | Python, HTML/CSS и др. | 93317
-IntelliJ IDEA | https://www.jetbrains.com/ru-ru/idea/ | Windows,Linux,macOS | Java, AngularJS, Scala и др. | 233997
-
